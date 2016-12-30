@@ -1,11 +1,16 @@
 A simple snake game!
 
 Installation (Linux):
- * Make sure you have pygame installed
- * Download or clone into directory of your choice
- * $chmod +x snake.py
- * $./snake.py
- * Enjoy!
+ 1 Make sure you have pygame installed
+ 2 Download or clone into directory of your choice
+ 3 $chmod +x snake.py
+ 4 $./snake.py
+ 5 Enjoy!
+
+
+
+
+
 Known bugs:
 
  * Making a U-turn too fast will cause the program to not update the first
