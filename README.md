@@ -15,5 +15,5 @@ Known bugs:
 
 
 
-        Solution (not really): Don't input 2 keys that will cause a
-         u-turn  within ~0.1 s.
+ * Solution (not really): Don't input 2 keys that will cause a
+     u-turn  within ~0.1 s.
